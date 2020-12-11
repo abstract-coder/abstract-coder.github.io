@@ -1,11 +1,14 @@
 <!-- docs/_sidebar.md -->
 
 * [Intro](README.md)
-* [Existing approaches](EXISTING.md)
 * [***Audiences*** - Who is it for?](DOCUMENTATION.md)
 * [Challenges](DOCUMENTATION.md)
 * [***What to build?*** ???](DOCUMENTATION.md)
 * [---]()
+* [***Abstraction*** - What?](DOCUMENTATION.md)
+* [***Programming*** Code and beyond](DOCUMENTATION.md)
+* [---]()
+* [Approaches Overview](DOCUMENTATION.md)
 * [***WYSIWYG*** Click'n play](DOCUMENTATION.md)
 * [***Low Code*** All in one?](DOCUMENTATION.md)
 * [***"Abstract" Programming Languages***](ABSTRACT-PROGRAMMING.md)
