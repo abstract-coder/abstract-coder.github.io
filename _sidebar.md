@@ -1,8 +1,9 @@
 <!-- docs/_sidebar.md -->
 
 * [Intro](README.md)
-* [***Audiences*** - Who is it for?](DOCUMENTATION.md)
-* [Challenges](DOCUMENTATION.md)
+* [***Abstract Code*** - What?](ABSTRACT-CODE.md)
+* [***Audiences*** - Who is it for?](AUDIENCES.md)
+* [The ***Challenges***](CHALLENGES.md)
 * [***What to build?*** ???](DOCUMENTATION.md)
 * [---]()
 * [***Abstraction*** - What?](DOCUMENTATION.md)
@@ -11,7 +12,7 @@
 * [Approaches Overview](DOCUMENTATION.md)
 * [***WYSIWYG*** Click'n play](DOCUMENTATION.md)
 * [***Low Code*** All in one?](DOCUMENTATION.md)
-* [***"Abstract" Programming Languages***](ABSTRACT-PROGRAMMING.md)
+* [***"Abstract" Programming Languages***](ABSTRACT-PROGRAMMING-LANGUAGES.md)
 * [***"General Purpose" Languages***](GENERAL-PURPOSE-LANGUAGES.md)
 * [***Frameworks***](DOCUMENTATION.md)
 * [---]()
