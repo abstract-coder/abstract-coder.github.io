@@ -9,3 +9,18 @@ What the concept of this publication is about, is finding a way to develop softw
 
 Naturally, the above statement sounds conflicting -  and hard to achieve. And it is.
 This is why concepts, like Low Code Programming have evolved in the last couple of years.
+
+Let's talk about the three main conpepts of abstract code programing. These concepts actually represent the name of this whole thing:
+
+* Abstract (as in abstraction)
+* Code (computer code)
+* Programming (the process of coding)
+
+## Abstract(ion)
+
+Abstraction is...
+
+## Code
+
+
+## Programming

@@ -1,12 +1,12 @@
 <!-- docs/_sidebar.md -->
 
 * [Intro](README.md)
+* [The ***Basics***](BASICS.md)
 * [***Abstract Code*** - What?](ABSTRACT-CODE.md)
 * [***Audiences*** - Who is it for?](AUDIENCES.md)
 * [The ***Challenges***](CHALLENGES.md)
 * [***What to build?*** ???](DOCUMENTATION.md)
 * [---]()
-* [***Abstraction*** - What?](DOCUMENTATION.md)
 * [***Programming*** Code and beyond](DOCUMENTATION.md)
 * [---]()
 * [Approaches Overview](DOCUMENTATION.md)
