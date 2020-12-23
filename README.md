@@ -8,10 +8,8 @@ Welcome to "Abstract Code Programming". This site is to show and discuss approac
 
 This site will show examples with the following technologies:
 
-| Project        | Description           |
-| ------------- |:-------------|
-| ![Puzzle](assets/puzzle.png "Puzzle") | Puzzle. An abstract programming language |
-| ![Node-RED](assets/node-red.png "Node-RED") | Node-RED. Flow-based, graphical programming |
+
+![Puzzle](assets/puzzle.png "Puzzle")
 
 
 
