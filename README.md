@@ -1,4 +1,4 @@
-## Abstract Code Programming
+# Abstract Code Programming
 
 
 > Develop by using abstract methods and technologies. Beyond "Low Code". This is a collection of ressources, publications, tutorials and projects about the concept of ***Abstract Code***
@@ -11,7 +11,7 @@ This site will show examples with the following technologies:
 ![Puzzle](assets/puzzle.png "Puzzle")
 
 
-## What is this site about?
+# About this publication
 
 First of all, this site is an open project. Everybody is welcome to contribute content, ideas, tutorials or projects.
 
@@ -22,8 +22,13 @@ You will:
 * ***Develop*** software using abstract programming languages
 
 
-## Author
+# Content
 
-My name is Marco, a Computer Science Master with a deep passion for abstraction. I am working on this site to provide a platform for people who want to build software in a simple but versatile fashion. I really hope this site will be joined by other collaborators, exchainging ideas, concepts and solutions for making computer programming more abstract.
+This publication is structured into multiple chapters, of which each can be consumed separately.
 
-Find out more here.
+* [Intro](README)
+	* [About](README?id=about-this-publication)
+	* [Content](README?id=content)
+* [Computer Basics](BASICS)
+	* [The computer]()
+	* sdg
