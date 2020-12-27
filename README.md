@@ -1,8 +1,7 @@
-# Abstract Code Programming
+## Abstract Code Programming
 
-### Develop by using abstract methods and technologies. Beyond "Low Code".
 
-> This is a collection of ressources, publications, tutorials and projects about the concept of ***Abstract Code***
+> Develop by using abstract methods and technologies. Beyond "Low Code". This is a collection of ressources, publications, tutorials and projects about the concept of ***Abstract Code***
 
 Welcome to "Abstract Code Programming". This site is to show and discuss approaches for building software in an abstract and versatile way. Approaches, that go beyond hard core programming but also beyond "Low Code".
 
@@ -10,7 +9,6 @@ This site will show examples with the following technologies:
 
 
 ![Puzzle](assets/puzzle.png "Puzzle")
-
 
 
 ## What is this site about?
