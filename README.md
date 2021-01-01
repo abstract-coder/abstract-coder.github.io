@@ -26,9 +26,7 @@ You will:
 
 This publication is structured into multiple chapters, of which each can be consumed separately.
 
-* [Intro](README)
-	* [About](README?id=about-this-publication)
-	* [Content](README?id=content)
-* [Computer Basics](BASICS)
-	* [The computer]()
-	* sdg
+| Chapter       | Content           |
+| ------------- |:-------------|
+| [Intro](README)   | What this publication is all about |
+| [Programming Basics](BASICS)   | Learn about the basics needed to understand programming |

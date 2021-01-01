@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * [Intro](README.md)
-* [***Computer Basics***](BASICS.md)
+* [***Programming Basics***](BASICS.md)
 * [***Beyond Code***](BEYOND-CODE.md)
 * [|]()
 * [***Abstract Code***](ABSTRACT-CODE.md)
