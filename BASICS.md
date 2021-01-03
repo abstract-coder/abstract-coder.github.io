@@ -1,8 +1,8 @@
 # The Basics
 
-These are the basics, one needs to understand, in order to start with abstract code.
-
 > The basics are a good point to start for non-programmers. They are important, because...
+
+These are the basics, one needs to understand, in order to start with abstract code.
 
 
 # What is Code

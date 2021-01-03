@@ -1,3 +1,0 @@
-# General Purpose Programing Languages.
-
-...
