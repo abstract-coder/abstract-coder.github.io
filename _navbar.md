@@ -3,6 +3,8 @@
 * [Intro](README.md)
 * [Beginners Basics](BASICS.md)
 
+<!--
+
 * [Ways of Abstract Development](BEYOND-CODE.md)
 * [About Abstract Code](ABSTRACT-CODE.md)
 
@@ -10,3 +12,4 @@
 * [Build something](DOCUMENTATION.md)
 
 * [About](ABOUT.md)
+-->
