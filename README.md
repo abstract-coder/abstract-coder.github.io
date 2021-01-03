@@ -26,9 +26,9 @@ You will:
 
 # Content
 
-This publication is structured into multiple chapters, of which each can be consumed separately.
+This publication is structured into multiple chapters, of which each can be consumed separately. However, it cannot hurt to read the content in the order it is presented.
 
 | Chapter       | Content           |
 | ------------- |:-------------|
 | [Intro](README)   | What this publication is all about |
-| [Programming Basics](BASICS)   | Learn about the basics needed to understand programming |
+| [Beginners Basics](BASICS)   | Learn about the basics needed to understand programming |
