@@ -7,6 +7,6 @@
 * [About Abstract Code](ABSTRACT-CODE.md)
 
 * [Language Guide](LANGUAGE-GUIDE.md)
-* [Build stuff](DOCUMENTATION.md)
+* [Build something](DOCUMENTATION.md)
 
 * [About](ABOUT.md)
