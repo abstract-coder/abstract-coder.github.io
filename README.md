@@ -1,19 +1,21 @@
 # Abstract Code Programming
 
 
-> Develop by using abstract methods and technologies. Beyond "Low Code". This is a collection of ressources, publications, tutorials and projects about the concept of ***Abstract Code***
-
-Welcome to "Abstract Code Programming". This site is to show and discuss approaches for building software in an abstract and versatile way. Approaches, that go beyond hard core programming but also beyond "Low Code".
-
-This site will show examples with the following technologies:
+Welcome to "Abstract Code Programming". This site is to show and discuss approaches for building software in an abstract and versatile way. Approaches, that go beyond hard core programming but also beyond "Low Code". 
 
 
-![Puzzle](assets/puzzle.png "Puzzle")
+## TL;DR
+
+> Abstract Code Programing doesn't have an official definition. It is discussed here as a development approach that aims to provide a way to develop software using programming languages that are designed with abstract principles.
+
+---
 
 
 # About this publication
 
-First of all, this site is an open project. Everybody is welcome to contribute content, ideas, tutorials or projects.
+This publication discusses the concept of developing software using abstract language. Along with the resources shown here, an abstract programing language, called ***PUZZLE*** ist developed and discussed.
+
+![Puzzle](assets/puzzle.png "Puzzle")
 
 You will:
 
