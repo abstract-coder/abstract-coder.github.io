@@ -1,28 +1,38 @@
 # Abstract Code Programming
 
+![Banner](assets/acp-banner.png "Banner")
 
-Welcome to "Abstract Code Programming". This site is to show and discuss approaches for building software in an abstract and versatile way. Approaches, that go beyond hard core programming but also beyond "Low Code". 
-
-
-## TL;DR
-
-> Abstract Code Programing doesn't have an official definition. It is discussed here as a development approach that aims to provide a way to develop software using programming languages that are designed with abstract principles.
-
----
-
-
-# About this publication
-
-This publication discusses the concept of developing software using abstract language. Along with the resources shown here, an abstract programing language, called ***PUZZLE*** ist developed and discussed.
-
-![Puzzle](assets/puzzle.png "Puzzle")
-
-You will:
+Welcome to "Abstract Code Programming". This publication is to show and discuss approaches for building software using ***real programming*** code in an abstract and versatile way. Approaches, that go beyond hard-core programming but also beyond "Low Code". You will:
 
 * ***Learn*** about abstract ways to develop software
 * ***See*** different approaches for different problems
 * ***Develop*** software using abstract programming languages
 
+
+### TL;DR
+
+Abstract Code Programing doesn't have an official definition. It is discussed here as a development approach that aims to provide a way to develop software using programming languages that are designed with abstract principles.
+
+---
+
+# Projects
+
+As part of this publication, some technologies that make abstract codeing possible, are being created and discussed. There technologies are open source.
+
+### Abstract Programming Language
+
+When we talk about abstract code, we need an abstract programming language. The PUZZLE project is an approach to create a real programmming language, that is designed with abstraction in mind. Along with the resources shown in this publication, PUZZLE will be discussed.
+
+![Puzzle](assets/puzzle.png "Puzzle")
+
+
+### Abstract Framework
+
+Besides having a language for development, frameworks are a must-use for building software. OBJY is a framework, that works with behaviour-driven, dynamic objects as piece of abstraction.
+
+![OBJY](assets/objy.png "OBJY")
+
+---
 
 # Content
 
