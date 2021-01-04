@@ -19,7 +19,10 @@ printSentence();
 
 Code, source code, computer code, program code. There are many names that can be used to describe it. But what exactly is code?
 
-In the computer world, a "code" is a set of instructions that tells a computer what to do. A code, for instance, can consist of the instruction to output a text on the screen of the computer. Sounds simple, but still there are open questions...
+![Banner](assets/instruction.png "Banner")
+
+In the computer world, a "code" is a set of instructions that tells a computer what to do. A code, for instance, can consist of the instruction to output a text on the screen of the computer. 
+Sounds simple, but still there are open questions...
 
 * How is an instruction (aka "code") passed to the computer
 * What format should this "instruction" have?
@@ -112,6 +115,9 @@ The result of what a code does typically has some output. An output can be whate
 	* ...
 * Output via network
 	* communication with other computers
+
+
+![Banner](assets/devices-output.png "Banner")
 
 The possible output of a code is bound to the capabilities of the computer. If a computer has a display attached, graphic output is available. If we're talking about a microchip, that doesn't have a screen, the output would be the blink of a light or something.
 
