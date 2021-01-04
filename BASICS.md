@@ -104,6 +104,14 @@ Code can be input directly via the ***command line interface*** or saved as file
 
 > A ***Command line interface***, or ***CLI*** is a text based program that is part of the operating system. A CLI takes code (typically single commands) as input and writes text as output.
 
+
+## Output channels
+
+***The possible output of a code is bound to the output capabilities of the computer***. If a computer has a display attached, graphic output is available. If we're talking about a microchip, that doesn't have a screen, the output would be the blink of a light or something.
+
+![Banner](assets/devices-output.png "Banner")
+
+
 The result of what a code does typically has some output. An output can be whatever the computer has to offer:
 
 * Output on the screen - if a screen is available
@@ -115,11 +123,6 @@ The result of what a code does typically has some output. An output can be whate
 	* ...
 * Output via network
 	* communication with other computers
-
-
-![Banner](assets/devices-output.png "Banner")
-
-The possible output of a code is bound to the capabilities of the computer. If a computer has a display attached, graphic output is available. If we're talking about a microchip, that doesn't have a screen, the output would be the blink of a light or something.
 
 Whatever output mechanisms are available, the input is the same across all types of computers: ***code***
 
