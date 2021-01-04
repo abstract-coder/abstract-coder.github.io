@@ -19,14 +19,19 @@ Abstract Code Programing doesn't have an official definition. It is discussed he
 
 As part of this publication, some technologies that make abstract codeing possible, are being created and discussed. There technologies are open source.
 
-### Abstract Programming Language
+
+### Ressources: This publication
+
+This publication is the main part of the abstact code project.
+
+### Abstract Programming Language: PUZZLE
 
 When we talk about abstract code, we need an abstract programming language. The PUZZLE project is an approach to create a real programmming language, that is designed with abstraction in mind. Along with the resources shown in this publication, PUZZLE will be discussed.
 
 ![Puzzle](assets/puzzle.png "Puzzle")
 
 
-### Abstract Framework
+### Abstract Framework: OBJY
 
 Besides having a language for development, frameworks are a must-use for building software. OBJY is a framework, that works with behaviour-driven, dynamic objects as piece of abstraction.
 
