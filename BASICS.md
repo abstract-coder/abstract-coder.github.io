@@ -1,17 +1,23 @@
 # The Basics
 
-> The basics are a good point to start for non-programmers. They are important, because...
+> The basics are a good point to start not only for non-programmers but also for professionals. This chapter features the main parts involved in programming:
+***From "What is code?" over "What is a Computer?" to "How to run code?"***
 
-These are the basics, one needs to understand, in order to start with abstract code.
+---
 
-
-# What is Code
-
-Code, source code, computer code, program code. There are many names that can be used to describe it. But what exactly is code?
+# What is Code?
 
 ```javascript
-console.log('Hello');
+var words = ["Hello", "World"];
+var sentence = words.join(" ");
+function printSentence(){
+	console.log("The full sentence:", sentence);
+}
+printSentence();
+
 ```
+
+Code, source code, computer code, program code. There are many names that can be used to describe it. But what exactly is code?
 
 In the computer world, a "code" is a set of instructions that tells a computer what to do. A code, for instance, can consist of the instruction to output a text on the screen of the computer. Sounds simple, but still there are open questions...
 
@@ -19,6 +25,7 @@ In the computer world, a "code" is a set of instructions that tells a computer w
 * What format should this "instruction" have?
 * Where exactly shall the text be output?
 * ***Where to start???***
+
 
 # The computer
 
