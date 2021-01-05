@@ -2,10 +2,11 @@
 
 * [Intro](README.md)
 * [Beginners Basics](BASICS.md)
+* [Abstract Development](BEYOND-CODE.md)
 
 <!--
 
-* [Ways of Abstract Development](BEYOND-CODE.md)
+
 * [About Abstract Code](ABSTRACT-CODE.md)
 
 * [Language Guide](LANGUAGE-GUIDE.md)

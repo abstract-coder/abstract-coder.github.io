@@ -36,3 +36,20 @@ This publication is structured into multiple chapters, of which each can be cons
 | ------------- |:-------------|
 | [Intro](README)   | What this publication is all about |
 | [Beginners Basics](BASICS)   | Learn about the basics needed to understand programming |
+| [Abstract Development](BEYOND-CODE)   | Learn about the basics needed to understand programming |
+
+# Roadmap
+
+The following chapters are being created:
+
+- [x] <b>Intro</b>
+- [x] <b>Beginners Basics </b>
+	- Some important basics
+- [ ] <b>Abstract Development </b>
+	- Information on existing approaches to build software using abstract principles. With code and beyond
+- [ ] <b>Abstract Code</b>
+	- What is Abstract Code ?
+- [ ] <b>Language Guide</b>
+	- Learn the PUZZLE abstract programming language
+- [ ] <b>Start building</b>
+	- Create projects using PUZZLE
