@@ -1,5 +1,6 @@
 <!-- docs/_sidebar.md -->
 
+* [![AC](assets/ac-logo-sm.png "Abstract Code")](README.md)
 * [Intro](README.md)
 * [Beginners Basics](BASICS.md)
 * [Abstract Development](BEYOND-CODE.md)
