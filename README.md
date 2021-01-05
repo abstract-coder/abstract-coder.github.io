@@ -45,10 +45,8 @@ The following chapters are being created:
 - [x] <b>Intro</b>
 - [x] <b>Beginners Basics </b>
 	- Some important basics
-- [x] <b>Abstraction</b>
-	- What is abstraction and how does it work in computers?
 - [ ] <b>Abstract Development </b>
-	- Information on existing approaches to build software using abstract principles. With code and beyond
+	- What is abstraction and how does it work in computers? What are existing approaches to develop software using abstract methodologies?
 - [ ] <b>Abstract Code</b>
 	- What is Abstract Code ?
 - [ ] <b>Language Guide</b>

@@ -3,11 +3,10 @@
 * [![AC](assets/ac-logo-sm.png "Abstract Code")](README.md)
 * [Intro](README.md)
 * [Beginners Basics](BASICS.md)
-* [Abstraction](ABSTRACTION.md)
+* [Abstract Development](ABSTRACTION.md)
 
 <!--
 
-* [Abstract Development](BEYOND-CODE.md)
 * [About Abstract Code](ABSTRACT-CODE.md)
 
 * [Language Guide](LANGUAGE-GUIDE.md)
