@@ -35,7 +35,7 @@ This publication is structured into multiple chapters, of which each can be cons
 | Chapter       | Content           |
 | ------------- |:-------------|
 | [Intro](README) | What this publication is all about |
-| [Beginners Basics](BASICS) | Learn about the basics needed to understand programming |
+| [Basics](BASICS) | Learn about the basics needed to understand programming |
 | [Abstraction](Abstraction) | Learn about abstraction and how computers use it to work |
 
 # Roadmap
@@ -43,7 +43,7 @@ This publication is structured into multiple chapters, of which each can be cons
 The following chapters are being created:
 
 - [x] <b>Intro</b>
-- [x] <b>Beginners Basics </b>
+- [x] <b>Basics </b>
 	- Some important basics
 - [ ] <b>Abstract Development </b>
 	- What is abstraction and how does it work in computers? What are existing approaches to develop software using abstract methodologies?
