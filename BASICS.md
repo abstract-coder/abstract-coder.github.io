@@ -136,7 +136,7 @@ In order to run a code, the computer needs to "know" the language. So the "langu
 TBC...
 
 
-# Abstraction in Computers
+# Abstraction
 
 > The goal of "abstracting" [...] is to reduce complexity by removing unnecessary information [<cite>[1]</cite>]
 
@@ -160,8 +160,25 @@ Therefore a programmer usually doesn't have to deal with zeroes and ones.
 
 [1]: https://techterms.com/definition/abstraction#:~:text=In%20computer%20science%2C%20abstraction%20has,of%20computers%20in%20abstract%20terms.
 
+# Abstract Code
 
-# Abstract Programming
+> First of all, there is no official definition of "Abstract Code". I'll be using this term to describe the principle of this publication.
+
+When you google "Abstract Code", you'll mainly find results that have to do with the concept of [Abstraction](...).
+And the Idea of Abstraction is actually a good point to start. You can read more about abstraction [here]().
+
+What the concept of this publication is about, is finding a way to develop software without the (full) complexity of general purpose programming languages while still having the (full) flexibility of general purpose programming languages.
+
+Naturally, the above statement sounds conflicting -  and hard to achieve. And it is.
+This is why concepts, like Low Code Programming have evolved in the last couple of years.
+
+Let's talk about the three main conpepts of abstract code programing. These concepts actually represent the name of this whole thing:
+
+* Abstract (as in abstraction)
+* Code (computer code)
+* Programming (the process of coding)
+
+# Other Abstract Approaches
 
 ***"Programing isn't always just done with code."***
 
@@ -187,23 +204,7 @@ What that means is that programming is done using graphical tools that let's the
 
 ## Low Code
 
-# Abstract Code
 
-> First of all, there is no official definition of "Abstract Code". I'll be using this term to describe the principle of this publication.
-
-When you google "Abstract Code", you'll mainly find results that have to do with the concept of [Abstraction](...).
-And the Idea of Abstraction is actually a good point to start. You can read more about abstraction [here]().
-
-What the concept of this publication is about, is finding a way to develop software without the (full) complexity of general purpose programming languages while still having the (full) flexibility of general purpose programming languages.
-
-Naturally, the above statement sounds conflicting -  and hard to achieve. And it is.
-This is why concepts, like Low Code Programming have evolved in the last couple of years.
-
-Let's talk about the three main conpepts of abstract code programing. These concepts actually represent the name of this whole thing:
-
-* Abstract (as in abstraction)
-* Code (computer code)
-* Programming (the process of coding)
 
 
 
