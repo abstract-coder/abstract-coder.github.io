@@ -4,8 +4,6 @@
 
 * [Knowledge](BASICS.md)
 
-* [Abstract Code](ABSTRACT-CODE.md)
-
 * [The Language](LANGUAGE-GUIDE.md)
 
 * [Build something](DOCUMENTATION.md)
