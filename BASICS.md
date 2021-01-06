@@ -150,6 +150,8 @@ Layers are here to abstract the layer beneath it. Computers work on many, many l
 
 ![Layers](assets/layers2.png "Layers")
 
+<small>([Image source](https://lh6.googleusercontent.com/proxy/erajlo1MU6tYmH76em7xwahjWRRec_jwCYDUM_E0bdOLQNMWEHfQM6AwzbVBqDMUG8vX3rxYu2EgS_ekD2CvvxGD3qor-i6eZyCSBVe_G-8BjKyhjN1B7wxwBx982YuyqAoB=w1823-h1193))</small>
+
 
 Every programming code runs on a pretty high layer of that stack, meaning that code is a layer of abstraction that is fairly simple, compared to the 0 and 1 layer. 
 
