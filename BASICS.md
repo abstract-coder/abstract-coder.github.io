@@ -1,3 +1,7 @@
+# Knowledge
+
+This chapter features content and explanations about the basics of computer programming, abstraction and abstract approaches to develop software.
+
 # The Basics
 
 > The basics are a good point to start not only for non-programmers but also for professionals. This chapter features the main parts involved in programming:
