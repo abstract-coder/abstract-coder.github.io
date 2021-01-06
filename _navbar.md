@@ -2,15 +2,12 @@
 
 * [![AC](assets/ac-logo-sm.png "Abstract Code")](README.md)
 
-* [Basics](BASICS.md)
+* [Knowledge](BASICS.md)
 
-* [About Abstract Code](ABSTRACT-CODE.md)
+* [Abstract Code](ABSTRACT-CODE.md)
 
-<!--
+* [The Language](LANGUAGE-GUIDE.md)
 
-* [Language Guide](LANGUAGE-GUIDE.md)
 * [Build something](DOCUMENTATION.md)
 
 * [About](ABOUT.md)
-
--->
