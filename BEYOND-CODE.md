@@ -1,4 +1,4 @@
-# Abstract Development - Programming beyond Code
+# Programming beyond code
 
 ***"Programing isn't always just done with code."***
 
@@ -12,7 +12,7 @@ Code is also the lowest level to describe there instructions. But over time, peo
 * ***No Code*** doesn't require writing any code. Typically programming is done by using WYSIWYG Tools
 * ***Low Code*** does require writing code, but not necesseraly. This is typically a mix of code and WYSIWYG tools.
 
-# WYSIWYG programming tools
+## WYSIWYG programming tools
 
 WYSISWG stands for "What You See Is What You Get". Tools that work on this principle allow the user (here: programmer) to create something in the same way it will appear in the result. [<cite>[2]</cite>]
 
@@ -20,9 +20,8 @@ What that means is that programming is done using graphical tools that let's the
 
 [2]: https://www.dictionary.com/browse/wysiwyg
 
-# No Code
+## No Code
 
+## Low Code
 
-
-# Low Code
-
+# Programming with abstract code
