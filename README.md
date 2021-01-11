@@ -1,6 +1,6 @@
 # Abstract Code Programming
 
-![Banner](assets/ac-logo.png "Banner")
+![Banner](assets/ac-logo-md.png "Banner")
 
 Welcome to "Abstract Code" Programming. This publication is to show and discuss approaches for building software using ***real programming*** code in an abstract and versatile way. Approaches, that go beyond hard-core programming but also beyond "Low Code". You will:
 
