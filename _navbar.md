@@ -2,10 +2,10 @@
 
 * [![AC](assets/ac-logo-sm.png "Abstract Code")](README.md)
 
-* [Knowledge](BASICS.md)
+* [<i class="fas fa-book"></i> Knowledge](BASICS.md)
 
-* [The Language](LANGUAGE-GUIDE.md)
+* [<i class="fas fa-code"></i> The Language](LANGUAGE-GUIDE.md)
 
-* [Build something](BUILD.md)
+* [<i class="fas fa-wrench"></i> Build something](BUILD.md)
 
-* [About](ABOUT.md)
+* [<i class="fas fa-info"></i> About](ABOUT.md)
