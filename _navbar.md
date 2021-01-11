@@ -6,6 +6,6 @@
 
 * [The Language](LANGUAGE-GUIDE.md)
 
-* [Build something](DOCUMENTATION.md)
+* [Build something](BUILD.md)
 
 * [About](ABOUT.md)
