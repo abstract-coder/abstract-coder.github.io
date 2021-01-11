@@ -1,6 +1,8 @@
 # About
 
-This site is a free, open source collection of ressources, tutorials and projects about "abstract code" programming.
+Abstract code is a free, open-source publication, that features ressources, projects and content about programming with abstract code. Readers will learn about programming and how to use a real programming language (PUZZLE) for developing software using abstract syntax.
+
+Alongside the ressources, a couple of projects (abstract programming language / frameworks) are developed and discussed.
 
 # Author
 
