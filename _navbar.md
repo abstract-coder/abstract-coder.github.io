@@ -1,8 +1,8 @@
 <!-- docs/_sidebar.md -->
 
-* [![AC](assets/ac-logo-sm.png "Abstract Code")](README.md)
+* [![AC](assets/ac-logo-sm.png "Abstract Code")]()
 
-* [<i class="fas fa-home"></i> Home](README.md)
+* [<i class="fas fa-home"></i> Intro](README.md)
 
 * [<i class="fas fa-book"></i> Knowledge](BASICS.md)
 
