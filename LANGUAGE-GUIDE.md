@@ -4,8 +4,6 @@
 
 # An abstract language
 
-## What's a language?
-
 What is a language at all? A Language is a communication format, most notably used by us people. It is used to transfer information from one person to another.
 
 Computers work on the same principle. (Programming-) Language is used to transfer information from a user (developer) to the computer. The computer then processes that information.
@@ -62,11 +60,8 @@ Of course, this is way easier to understand, since we use "natural language". Th
 * How are you?
 * How are you doing?
 * How is it going?
-* ...
 
 These phrases all mean the same, but are written differently.
-
-> Different syntax is easy to understand for humans, but not so easy for a computer! Computers need predictable syntax within a code in order to understand it.
 
 The condition above could also be written in different ways.
 
@@ -83,13 +78,18 @@ if 3 is bigger than 2 print yes. if it is not print no.
 if the number 3 is larger than the number 2 print yes. if it is not print no.
 ```
 
+Different syntax is easy to understand for humans, but not so easy for a computer! Computers need predictable syntax within a code in order to understand it. So in an abstract coding language, it should be possible to write code in different ways while still having the same meaning.
 
-So in an abstract coding language, it should be possible to write code in different ways while still having the same meaning.
-
-> Such a language should be capable of understanding a phrase with certain words missing and/or a different word order. The most important words, however must be present ('if' or 'print')
+> An abstract programming language should be capable of understanding a phrase with certain words missing and/or a different word order. The most important words, however must be present (like 'if' or 'print')
 
 
 
 # What is PUZZLE?
 
-TBD
+The PUZZLE project is a programming language, that works with customizable textual components that abstract specific problems. 
+
+> It's an abstract programming language
+
+The whole language is based on an extendable, dynamic configuration, making it easy to build custom syntax. In this configuration, single identifiers (words) can be defined, dynamically combined and connected. Each word or phrase (a combination of words, either in a specific order or not) can be mapped to the execution of a more complex functionality, written in JavaScript.
+
+
