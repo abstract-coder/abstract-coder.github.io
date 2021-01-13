@@ -92,12 +92,6 @@ The PUZZLE project is a programming language, that ***abstracts functionality us
 
 The whole language is based on an extendable, dynamic configuration, making it easy to build custom syntax. In this configuration, single identifiers (words) can be defined, dynamically combined and connected. Each word or phrase (a combination of words, either in a specific order or not) can be mapped to the execution of a more complex functionality, written in JavaScript.
 
-A quick example:
-
-```puzzle
-print Hello
-```
-
 
 PUZZLE's key features are:
 
@@ -112,6 +106,10 @@ PUZZLE's key features are:
 ## Simple syntax
 
 The syntax of PUZZLE is heavily based on natural language. 
+A quick example:
+```puzzle
+print Hello
+```
 
 ## Dynamic semantics
 
