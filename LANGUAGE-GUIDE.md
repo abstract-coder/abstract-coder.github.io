@@ -42,9 +42,9 @@ if(3 > 2) {
 }
 ```
 
-This piece checks if the number 3 is larger than the number 2. If is's really larger, it outputs the word 'yes'. If otherwise, it outputs the word 'no'.
+This piece of code checks if the number 3 is larger than the number 2. If is's really larger, it outputs the word 'yes'. If otherwise, it outputs the word 'no'.
 
-This code also comes comes with different parts. It contains:
+This code comes with different parts. It contains:
 
 * Words: `if`, `else`, `console`, `log`
 * Dots: "console`.`log"
