@@ -79,6 +79,10 @@ if 3 is larger than 2, print yes,otherwise print no.
 if 3 is bigger than 2 print yes. if it is not print no.
 ```
 
+```puzzle
+if the number 3 is larger than the number 2 print yes. if it is not print no.
+```
+
 
 So in an abstract coding language, it should be possible to write code in different ways while still having the same meaning.
 
