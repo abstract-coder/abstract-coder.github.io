@@ -137,9 +137,11 @@ use email.js;
 
 ## Platform independent
 
-...
+The PUZZLE language itself is written in JavaScript, meaning that any PUZZLE code runs, where JavaScript runs.
+
+> JavaScript (and PUZZLE) runs on pretty much any device. From Microprocessors, Smartphones, Desktops to Servers and Clouds.
 
 ## Versatile
 
-...
+Since PUZZLE is a programming language, the capabilities are versatile. It is not restricted to anything specific. You can create Graphical Interfaces, Server Code, Websites, Desktop Apps, Workflows or embedded Applications.
 
