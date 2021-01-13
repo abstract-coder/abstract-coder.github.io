@@ -145,3 +145,42 @@ The PUZZLE language itself is written in JavaScript, meaning that any PUZZLE cod
 
 Since PUZZLE is a programming language, the capabilities are versatile. It is not restricted to anything specific. You can create Graphical Interfaces, Server Code, Websites, Desktop Apps, Workflows or embedded Applications.
 
+# Language concepts
+
+Programming means passing a set of instructions to a computer. These instructions are written with programming code. Every programming code follows a certain structure that makes it easier for a computer to understand and easier for a developer to write and read. Pretty much every programming language is structured like this:
+
+![Code Structure](assets/code-structure.png)
+
+## Code files
+
+Code is typically saved into files. Each file contains the programming code. If the software requires a lot of code, it is split up into multiple files for readability, maintainability and structure. Code files can be referenced amongst each other.
+
+## statements
+
+Inside a file, code is split up into different statements. A statement is a single (or multiple) instruction that a computer processes individually. Statements are seperated fromeach other using a delimeter. Many languages use a semicolon for this and so does PUZZLE.
+
+
+An example with PUZZLE:
+```puzzle
+
+print "hello World" ;
+
+<--------------->  <->
+    Statement    Delimeter
+
+```
+
+## Runtime
+
+## functions
+
+- built in
+
+## data
+
+## conditions
+
+## loops
+
+## algorythms
+
