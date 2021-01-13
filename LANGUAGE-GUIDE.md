@@ -86,10 +86,62 @@ Different syntax is easy to understand for humans, but not so easy for a compute
 
 # What is PUZZLE?
 
-The PUZZLE project is a programming language, that works with customizable textual components that abstract specific problems. 
+The PUZZLE project is a programming language, that ***abstracts functionality using simple words and phrases***
 
 > It's an abstract programming language
 
 The whole language is based on an extendable, dynamic configuration, making it easy to build custom syntax. In this configuration, single identifiers (words) can be defined, dynamically combined and connected. Each word or phrase (a combination of words, either in a specific order or not) can be mapped to the execution of a more complex functionality, written in JavaScript.
 
+A quick example:
+
+```puzzle
+print Hello
+```
+
+
+PUZZLE's key features are:
+
+* Simple syntax
+* Dynamic semantics
+* Textual abstraction for more complex functionalities
+* Easily customizable
+* Extendable
+* Runs on many platforms
+* Can be used to build many things
+
+## Simple syntax
+
+The syntax of PUZZLE is heavily based on natural language. 
+
+## Dynamic semantics
+
+Even different semantics in the shape of different word orders for the same meaning are possible.
+
+## Textual abstraction
+
+Pretty much any complex functionality can be abstracted in text: a word or phrase.
+
+## Easily customizable
+
+At the base of the language lies a dynamic configuration which allows one to define custom syntax and semanticy in order to execute some functionality.
+
+## Extendable
+
+Custom syntax can be published as modules. Any other PUZZLE user can use these modules. 
+
+Modules can be used over the web or from a local file.
+
+```puzzle
+use https://domain.com/email.js;
+
+use email.js;
+```
+
+## Platform independent
+
+...
+
+## Versatile
+
+...
 
