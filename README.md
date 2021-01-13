@@ -35,11 +35,18 @@ Abstraction has been around since computers were created. Abstraction works on t
 
 As part of this publication, some technologies that make abstract coding possible, are being created and discussed. There technologies are open source.
 
-| Project |  Category  | Description   |
-| ------------- | :------------- |:-------------|
-| Ressources | Publication   | This publication is the main part of the abstract code project. It features ressources for learning and discussing |
-| ![Puzzle](assets/puzzle.png "Puzzle") PUZZLE | Abstract Programming Language | When we talk about abstract code, we need an abstract programming language. The PUZZLE project is an approach to  reate a real programmming language, that is designed with abstraction in mind. Along with the resources shown in this publication, PUZZLE will be discussed. |
-| ![OBJY](assets/objy.png "OBJY") OBJY | Abstract Framework | Besides having a language for development, frameworks are a must-use for building software. OBJY is a framework, that works with behaviour-driven, dynamic objects as piece of abstraction. |
+## PUZZLE - abstract language
+
+![Puzzle](assets/puzzle.png "Puzzle")
+
+When we talk about abstract code, we need an abstract programming language. The PUZZLE project is an approach to  reate a real programmming language, that is designed with abstraction in mind. Along with the resources shown in this publication, PUZZLE will be discussed.
+
+
+## OBJY - abstract framework
+
+![OBJY](assets/objy.png "OBJY")
+
+Besides having a language for development, frameworks are a must-use for building software. OBJY is a framework, that works with behaviour-driven, dynamic objects as piece of abstraction.
 
 
 ---
