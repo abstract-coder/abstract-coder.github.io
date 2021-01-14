@@ -107,6 +107,7 @@
       section.cover {
         align-items: flex-start;
         height: auto !important;
+        background: none !important;
       }
 
       @media only screen and (max-width: 1000px) {
@@ -131,6 +132,19 @@
         plugins: [],
         coverpage: 'cover.html'
     }
+
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+      setTimeout(function(){
+          var nav = document.getElementsByTagName('nav')[0];
+          console.log('nav', nav)
+          window.onscroll = function(){
+            if(window.pageYOffset > 5) nav.style.background = '#FFFFFF';
+            else if(window.pageYOffset < 5) nav.style.background = 'none'
+          };
+      }, 1000)
+    });
+
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
