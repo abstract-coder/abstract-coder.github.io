@@ -8,6 +8,8 @@ What is a language at all? A Language is a communication format, most notably us
 
 Computers work on the same principle. (Programming-) Language is used to transfer information from a user (developer) to the computer. The computer then processes that information.
 
+## Language philosophy
+
 Every programming language, just like every real (spoken) language is based upon two principles:
 
 * Syntax (structure)
@@ -24,7 +26,7 @@ Every programming language comes with a predefined set of words and defines, how
 > In a programming language the phrase ***"print('hello')"*** means that <u>one participator</u> of the communication (the developer) is handing over the information to display the text "hello" to the <u>other participator</u> (the computer).
 
 
----
+## Abstract language structure
 
 So, what is an abstract programming language? It's a real programming language, that uses abstraction in both syntax and semantics.
 
@@ -90,7 +92,7 @@ The PUZZLE project is a programming language, that ***abstracts functionality us
 
 > It's an abstract programming language
 
-The whole language is based on an extendable, dynamic configuration, making it easy to build custom syntax. In this configuration, single identifiers (words) can be defined, dynamically combined and connected. Each word or phrase (a combination of words, either in a specific order or not) can be mapped to the execution of a more complex functionality, written in JavaScript.
+The whole language is based on an extendable, dynamic language configuration, making it easy to build custom syntax and semantics. In this configuration, single identifiers (words) can be defined, dynamically combined and connected. Each word or phrase (a combination of words, either in a specific order or not) can be mapped to the execution of a more complex functionality, implemented in the background.
 
 
 PUZZLE's key features are:
@@ -155,10 +157,9 @@ Programming means passing a set of instructions to a computer. These instruction
 
 Code is typically saved into files. Each file contains the programming code. If the software requires a lot of code, it is split up into multiple files for readability, maintainability and structure. Code files can be referenced amongst each other.
 
-## statements
+## Statements
 
 Inside a file, code is split up into different statements. A statement is a single (or multiple) instruction that a computer processes individually. Statements are seperated fromeach other using a delimeter. Many languages use a semicolon for this and so does PUZZLE.
-
 
 An example with PUZZLE:
 ```puzzle
@@ -171,6 +172,8 @@ print "hello World" ;
 ```
 
 ## Runtime
+
+Code needs to be executed somewhere and somehow.
 
 ## functions
 
