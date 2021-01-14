@@ -20,6 +20,10 @@ Large:
 
 ![Banner](assets/ac-logo.png "Banner")
 
+Medium:
+
+![Banner](assets/ac-logo-md.png "Banner")
+
 Small:
 
 ![Banner](assets/ac-logo-sm.png "Banner")
