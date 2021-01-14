@@ -48,7 +48,6 @@ When we talk about abstract code, we need an abstract programming language. The 
 
 Besides having a language for development, frameworks are a must-use for building software. OBJY is a framework, that works with behaviour-driven, dynamic objects as piece of abstraction.
 
-
 ---
 
 # Content and Roadmap
