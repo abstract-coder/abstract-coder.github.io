@@ -61,7 +61,7 @@
         margin:10px;
         margin-top:1px;
         margin-bottom:20px;
-        min-height: 400px;
+        min-height: 200px;
         font-size:22px;
         font-weight: 100;
         break-inside: avoid-column;
@@ -94,6 +94,18 @@
       .content {
         //right:300px;
         padding-top:100px;
+      }
+
+      .cover-main {
+        margin-top:120px !important;
+      }
+
+      @media only screen and (max-width: 1000px) {
+        .masonry {
+          width:100%;
+          column-count: 2;
+          column-gap: 10px;
+        }
       }
 
     </style>
