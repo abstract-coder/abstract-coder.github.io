@@ -53,12 +53,16 @@ Besides having a language for development, frameworks are a must-use for buildin
 
 # Content and Roadmap
 
+- [x] <b>[Cover](/)</b>
 - [x] <b>[Intro](README)</b>
 - [x] <b>[Knowledge](BASICS) </b>
-	- Some important basics
+	- [x] Some important basics
 - [x] <b>[The Language](LANGUAGE-GUIDE) </b>
-	- Learn PUZZLE, an abstract language
-- [x] <b>[Build something](BUILD)</b>
-	- Create your own projects using abstract code
+	- [x] Learn what an abstract coding language should look like
+	- [ ] Learn abstract language/programming concepts
+	- [ ] Learn PUZZLE, an abstract language
+- [ ] <b>[Build something](BUILD)</b>
+	- [ ] Create your own projects using abstract code
 - [x] <b>[About](ABOUT)</b>
-	- About this publication
+	- [x] About this publication
+- [ ] More chapters to come
