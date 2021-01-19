@@ -102,18 +102,28 @@
       .cover-main {
         //margin-top:120px !important;
         margin: 0px !important;
+        max-width: 100%;
       }
 
       section.cover {
         align-items: flex-start;
+        min-height: 100%;
         height: auto !important;
-        background: none !important;
+        //background: none !important;
       }
 
       @media only screen and (max-width: 1000px) {
         .masonry {
           width:100%;
           column-count: 2;
+          column-gap: 0px;
+        }
+      }
+
+       @media only screen and (max-width: 400px) {
+        .masonry {
+          width:100%;
+          column-count: 1;
           column-gap: 0px;
         }
       }
