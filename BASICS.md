@@ -164,6 +164,8 @@ Therefore a programmer usually doesn't have to deal with zeroes and ones.
 
 [1]: https://techterms.com/definition/abstraction#:~:text=In%20computer%20science%2C%20abstraction%20has,of%20computers%20in%20abstract%20terms.
 
+
+
 # Abstract Code
 
 > First of all, there is no official definition of "Abstract Code". I'll be using this term to describe the principle of this publication.

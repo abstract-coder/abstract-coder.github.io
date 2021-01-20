@@ -6,7 +6,9 @@
 
 * [<i class="fas fa-book"></i> Knowledge](BASICS.md)
 
-* [<i class="fas fa-code"></i> The Language](LANGUAGE-GUIDE.md)
+* [<i class="fas fa-text-height"></i> Abstract Language](ABSTRACT-CODE.md)
+
+* [<i class="fas fa-code"></i> Learn](LANGUAGE-GUIDE.md)
 
 * [<i class="fas fa-wrench"></i> Build something](BUILD.md)
 
