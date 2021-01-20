@@ -90,6 +90,19 @@ print "hello World" ;
 
 ## Blocks
 
+...
+
+```puzzle
+
+print (			   ᐱ
+	hello World	   |  Block
+);				    ᐯ
+
+<->
+Delimeter
+
+```
+
 ## Runtime
 
 Code needs to be executed somewhere and somehow.
