@@ -4,7 +4,7 @@
 
 * [<i class="fas fa-home"></i> Intro](README.md)
 
-* [<i class="fas fa-book"></i> Knowledge](BASICS.md)
+* [<i class="fas fa-book"></i> Basics](BASICS.md)
 
 * [<i class="fas fa-text-height"></i> Abstract Language](ABSTRACT-CODE.md)
 
