@@ -1,5 +1,5 @@
 
-* [Intro](README.md)
+* [***Intro***](README.md)
 
 * [***Basics***](chapters/basics/index.md)
 	* [Computers and Code](chapters/basics/computers.md)
