@@ -2,7 +2,7 @@
 
 * [![AC](./assets/ac-logo-sm.png "Abstract Code")]()
 
-* [#start-reading](README.md)
+* [#StartReading](README.md)
 
 * [#LearnPUZZLE](chapters/language/guide.md)
 
