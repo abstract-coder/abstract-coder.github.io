@@ -105,6 +105,32 @@
         max-width: 100%;
       }
 
+      #search-wrapper{
+        width:60%;
+      }
+
+      .search {
+        margin-top: 80px;
+        border:1px solid #EEEEEE !important;
+        border-radius:10px;
+      }
+
+      #search-wrapper input{
+       padding:10px 30px;
+       font-size:20px;
+       background: #b9b9b938;
+       border-radius: 100px;
+      }
+
+      .search .matching-post {
+        display: inline-block;
+        text-align: left;
+        margin: 10px;
+        background: #FFFFFF;
+        border-radius: 15px;
+        padding: 10px;
+      }
+
       section.cover {
         align-items: flex-start;
         min-height: 100%;
@@ -119,6 +145,10 @@
           column-count: 2;
           column-gap: 0px;
         }
+
+        #search-wrapper{
+          width:90%;
+        }
       }
 
        @media only screen and (max-width: 400px) {
@@ -126,6 +156,10 @@
           width:100%;
           column-count: 1;
           column-gap: 0px;
+        }
+
+        #search-wrapper{
+          width:90%;
         }
       }
 
@@ -143,24 +177,45 @@
         plugins: [],
         loadSidebar:true,
         coverpage: 'cover.html',
+         search: {
+          paths: 'auto',
+          placeholder: 'Search for content, examples, guides, ...',
+        }
         //onlyCover:true
     }
 
+    function initSearchPlugin(){
+      var search = document.getElementsByClassName('search')[0]
+      document.getElementById('search-wrapper').append(search)
+    }
+
+    /*window.onhashchange = function () {
+        if(window.location.hash == '#/') {
+          setTimeout(function(){ initSearchPlugin(); }, 1000)
+        }
+    }*/
 
     document.addEventListener('DOMContentLoaded', (event) => {
       setTimeout(function(){
           var nav = document.getElementsByTagName('nav')[0];
-          console.log('nav', nav)
+          var search = document.getElementsByClassName('search')[0];
+
           window.onscroll = function(){
+            //nav.style.position = "fixed";
             if(window.pageYOffset > 5) nav.style.background = '#FFFFFF';
             else if(window.pageYOffset < 5) nav.style.background = 'none'
           };
-      }, 1000)
+
+          //initSearchPlugin()
+
+      }, 100)
+
     });
 
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 
 </html>
