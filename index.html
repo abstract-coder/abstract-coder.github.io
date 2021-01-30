@@ -51,20 +51,20 @@
       }
 
       .masonry {
-        width:100%;
+        width:60%;
         column-count: 3;
-        column-gap: 0px;
+        column-gap: 10px;
       }
 
       .masonry div, .feature {
         background:#c48effb8;
-       // border-radius: 3px;
-        padding:100px;
-        padding-top:130px;
-        margin:0px;
+        border-radius: 20px;
+        padding:30px;
+        //padding-top:130px;
+        margin:20px;
         //margin-top:1px;
         // margin-bottom:20px;
-        min-height: 500px;
+        //min-height: 200px;
         font-size:22px;
         font-weight: 100;
         break-inside: avoid-column;
@@ -110,6 +110,7 @@
         min-height: 100%;
         height: auto !important;
         //background: none !important;
+        background:#f3f0ff !important;
       }
 
       @media only screen and (max-width: 1000px) {
@@ -141,7 +142,8 @@
         subMaxLevel: 2,
         plugins: [],
         loadSidebar:true,
-        coverpage: 'cover.html'
+        coverpage: 'cover.html',
+        onlyCover:true
     }
 
 
