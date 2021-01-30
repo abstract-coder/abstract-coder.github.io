@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [![AC](./assets/ac-logo-sm.png "Abstract Code")]()
+* [![AC](https://abstractcode.org/assets/ac-logo-sm.png "Abstract Code")]()
 
 * [#StartReading](README.md)
 

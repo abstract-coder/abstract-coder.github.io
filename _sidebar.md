@@ -18,4 +18,4 @@
 * [***Build***](chapters/build/index.md)
 	* [Prequesits](chapters/build/prequesits.md)
 
-* [About](chapters/ABOUT.md)
+* [***About***](chapters/about.md)

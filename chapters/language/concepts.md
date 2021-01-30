@@ -68,7 +68,7 @@ Since PUZZLE is a programming language, the capabilities are versatile. It is no
 
 Programming means passing a set of instructions to a computer. These instructions are written with programming code. Every programming code follows a certain structure that makes it easier for a computer to understand and easier for a developer to write and read. Pretty much every programming language is structured like this:
 
-![Code Structure](assets/code-structure.png)
+![Code Structure](../../assets/code-structure.png)
 
 ## Code files
 

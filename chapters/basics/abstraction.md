@@ -10,7 +10,7 @@ Everbody knows, computers only understand 0 and 1. Programming, however is not d
 
 Layers are here to abstract the layer beneath it. Computers work on many, many layers. So from a user input, like the press of a key on the keyboard, many different layers are involved, before that command reaches the 1 and 0 level.
 
-![Layers](assets/layers2.png "Layers")
+![Layers](../../assets/layers2.png "Layers")
 
 <small>([Image source](https://lh6.googleusercontent.com/proxy/erajlo1MU6tYmH76em7xwahjWRRec_jwCYDUM_E0bdOLQNMWEHfQM6AwzbVBqDMUG8vX3rxYu2EgS_ekD2CvvxGD3qor-i6eZyCSBVe_G-8BjKyhjN1B7wxwBx982YuyqAoB=w1823-h1193))</small>
 

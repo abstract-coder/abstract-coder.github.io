@@ -19,7 +19,7 @@ printSentence();
 
 Code, source code, computer code, program code. There are many names that can be used to describe it. But what exactly is code?
 
-![Banner](assets/instruction.png "Banner")
+![Banner](../../assets/instruction.png "Banner")
 
 In the computer world, a "code" is a set of instructions that tells a computer what to do. A code, for instance, can consist of the instruction to output a text on the screen of the computer. 
 Sounds simple, but still there are open questions...
@@ -109,7 +109,7 @@ Code can be input directly via the ***command line interface*** or saved as file
 
 ***The possible output of a code is bound to the output capabilities of the computer***. If a computer has a display attached, graphic output is available. If we're talking about a microchip, that doesn't have a screen, the output would be the blink of a light or something.
 
-![Banner](assets/devices-output.png "Banner")
+![Banner](../../assets/devices-output.png "Banner")
 
 
 The result of what a code does typically has some output. An output can be whatever the computer has to offer:
