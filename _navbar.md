@@ -4,7 +4,7 @@
 
 * [#StartReading](README.md)
 
-* [#LearnPUZZLE](chapters/language/guide.md)
+* [#LearnPUZZLE](chapters/language/concepts?id=language-concepts)
 
 * [#build-something](chapters/build/index.md)
 
