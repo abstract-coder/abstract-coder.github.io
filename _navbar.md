@@ -1,13 +1,11 @@
 <!-- docs/_sidebar.md -->
 
-* [![AC](assets/ac-logo-sm.png "Abstract Code")]()
+* [![AC](https://abstractcode.org/assets/ac-logo-sm.png "Abstract Code")]()
 
-* [<i class="fas fa-home"></i> Intro](README.md)
+* [#StartReading](README.md)
 
-* [<i class="fas fa-book"></i> Knowledge](BASICS.md)
+* [#LearnPUZZLE](chapters/language/guide.md)
 
-* [<i class="fas fa-code"></i> The Language](LANGUAGE-GUIDE.md)
+* [#build-something](chapters/build/index.md)
 
-* [<i class="fas fa-wrench"></i> Build something](BUILD.md)
-
-* [<i class="fas fa-info"></i> About](ABOUT.md)
+* [#about](chapters/about.md)
