@@ -106,7 +106,10 @@
       }
 
       #search-wrapper{
-        width:60%;
+        position: absolute;
+        top: 460px;
+        width: 100%;
+        left:25%;
       }
 
       .search {
@@ -120,6 +123,7 @@
        font-size:20px;
        background: #b9b9b938;
        border-radius: 100px;
+       width:50%;
       }
 
       .search .matching-post {
@@ -168,6 +172,7 @@
 
 <body>
     <div id="app"></div>
+    <!--div id="search-wrapper"></div-->
     <script>
     window.$docsify = {
         name: '',
@@ -183,10 +188,23 @@
         }
         //onlyCover:true
     }
+    
+    var search;
+    var searchOffset = window.innerHeight;
 
     function initSearchPlugin(){
-      var search = document.getElementsByClassName('search')[0]
-      document.getElementById('search-wrapper').append(search)
+      search = document.getElementsByClassName('search')[0]
+      document.getElementById('search-wrapper').append(search);
+
+      //search.style.top = document.getElementById('search-wrapper-hidden').offsetTop + 'px';
+    }
+
+    function moveSearchPlugin(direction){
+      var nav = document.getElementsByClassName('sidebar')[0]
+      search = document.getElementsByClassName('search')[0]
+      
+      if(direction == 'down') nav.prepend(search)
+        else if (direction == 'up') document.getElementById('search-wrapper').append(search)
     }
 
     /*window.onhashchange = function () {
@@ -201,9 +219,14 @@
           var search = document.getElementsByClassName('search')[0];
 
           window.onscroll = function(){
-            //nav.style.position = "fixed";
-            if(window.pageYOffset > 5) nav.style.background = '#FFFFFF';
+            if(window.pageYOffset > 5) 
+              nav.style.background = '#FFFFFF';
             else if(window.pageYOffset < 5) nav.style.background = 'none'
+
+            if(window.pageYOffset > searchOffset) {
+              moveSearchPlugin('down')
+            }
+            else if(window.pageYOffset < searchOffset) moveSearchPlugin('up')
           };
 
           //initSearchPlugin()
