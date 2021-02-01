@@ -1,5 +1,13 @@
 
+# Abtract Code
+
 ![Banner](assets/ac-logo-md.png "Banner")
+
+
+### TL;DR
+
+> Abstract Code Programing doesn't have an official definition. It is discussed here as a development approach that aims to provide a way to develop software using programming languages that are designed with abstract principles and are accessible even for non programmers. Projects, like the abstract programming language PUZZLE are developed and discussed.
+
 
 
 Welcome to "Abstract Code" Programming. This publication is to show and discuss approaches for building software using ***real programming*** code in an abstract and versatile way. Approaches, that go beyond hard-core programming but also beyond "Low Code". You will:
@@ -9,9 +17,6 @@ Welcome to "Abstract Code" Programming. This publication is to show and discuss 
 * ***Develop*** software using abstract programming languages
 
 
-### TL;DR
-
-> Abstract Code Programing doesn't have an official definition. It is discussed here as a development approach that aims to provide a way to develop software using programming languages that are designed with abstract principles and are accessible even for non programmers. Projects, like the abstract programming language PUZZLE are developed and discussed.
 
 ---
 
@@ -30,23 +35,31 @@ Abstraction has been around since computers were created. Abstraction works on t
 ![Development Layers](assets/development-layers.png)
 
 
+# The problem
 
-# Projects
+...
+
+
+
+# The Approach: an abstract language
+
+![Puzzle](assets/puzzle.png "Puzzle")
+
+***"PUZZLE"***
 
 As part of this publication, some technologies that make abstract coding possible, are being created and discussed. There technologies are open source.
 
-## PUZZLE - abstract language
 
-![Puzzle](assets/puzzle.png "Puzzle")
+
 
 When we talk about abstract code, we need an abstract programming language. The PUZZLE project is an approach to  reate a real programmming language, that is designed with abstraction in mind. Along with the resources shown in this publication, PUZZLE will be discussed.
 
 
-## OBJY - abstract framework
+## PUZZLE ecosystem
+
+Besides having a language for development, frameworks are a must-use for building software. PUZZLE is not just a language, it's a language platform that allows using ready-to-use components, contributed by a community. This publication also develops some of these modules.
 
 ![OBJY](assets/objy.png "OBJY")
-
-Besides having a language for development, frameworks are a must-use for building software. OBJY is a framework, that works with behaviour-driven, dynamic objects as piece of abstraction.
 
 ---
 

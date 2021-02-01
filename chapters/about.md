@@ -18,12 +18,12 @@ Connect:
 
 Large:
 
-![Banner](../../assets/ac-logo.png "Banner")
+![Banner](../../assets/aclogo.png "Banner")
 
 Medium:
 
-![Banner](../../assets/ac-logo-md.png "Banner")
+![Banner](../../assets/aclogo-md.png "Banner")
 
 Small:
 
-![Banner](../../assets/ac-logo-sm.png "Banner")
+![Banner](../../assets/aclogo-sm.png "Banner")
