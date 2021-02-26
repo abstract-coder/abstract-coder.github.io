@@ -1,4 +1,3 @@
-
 # An abstract language
 
 What is a language at all? A Language is a communication format, most notably used by us people. It is used to transfer information from one person to another.
