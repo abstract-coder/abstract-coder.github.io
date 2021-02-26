@@ -4,170 +4,172 @@
 <head>
     <meta charset="UTF-8">
     <title>Abstract Code Programming</title>
-    <link rel="icon" 
-      type="image/png" 
-      href="assets/aclogo-sm.png">
-      <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    <link rel="icon" type="image/png" href="assets/aclogo-sm.png">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="Description">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400&display=swap');
 
-      :root {
+    :root {
         --theme-color: #ba80ef;
-      }
+    }
 
-      h1 {
-        margin-top:80px !important;
-      }
+    h1 {
+        margin-top: 80px !important;
+    }
 
-      body {
+    body {
         font-family: 'Roboto Slab', serif;
-      }
+    }
 
-      nav {
+    nav {
         width: 100%;
-        right:auto !important;
+        right: auto !important;
         text-align: center !important;
         border-bottom: 1px solid #e8e8e8;
         padding-bottom: 20px;
-        padding-top:20px;
+        padding-top: 20px;
         margin-top: 0px !important;
         position: fixed !important;
         background: #FFFFFF;
         background: none;
         border-bottom: none;
-      }
+    }
 
-      nav ul li:first-child {
+    nav ul li:first-child {
         position: absolute;
-        left:25px;
-        top:5px;
-      }
+        left: 25px;
+        top: 5px;
+    }
 
-      .sidebar {
-        border-right:none;
-      }
+    .sidebar {
+        border-right: none;
+    }
 
-      .masonry {
-        width:60%;
+    .masonry {
+        width: 60%;
         column-count: 3;
         column-gap: 10px;
-      }
+    }
 
-      .masonry div, .feature {
-        background:#c48effb8;
+    .masonry div,
+    .feature {
+        background: #c48effb8;
         border-radius: 20px;
-        padding:30px;
+        padding: 30px;
         //padding-top:130px;
-        margin:20px;
+        margin: 20px;
         //margin-top:1px;
         // margin-bottom:20px;
         //min-height: 200px;
-        font-size:22px;
+        font-size: 22px;
         font-weight: 100;
         break-inside: avoid-column;
         display: flex;
         align-items: center;
         justify-content: center;
-      }
+    }
 
-      .masonry div a {
+    .masonry div a {
         text-decoration: underline;
-      }
+    }
 
-      .markdown-section
-      {
+    .markdown-section {
         max-width: 70%;
-        width:1000px;
+        width: 1000px;
         //column-count: 2;
         //column-gap: 50px;
         text-align: justify;
-      }
+    }
 
-      .markdown-section>* {
-        font-size:19px;
-      }
+    .markdown-section>* {
+        font-size: 19px;
+    }
 
-      .markdown-section a {
+    .markdown-section a {
         font-weight: 400 !important;
-      }
+    }
 
-      .content {
+    .content {
         //right:300px;
-        padding-top:100px;
-      }
+        padding-top: 100px;
+    }
 
-      .cover-main {
+    .cover-main {
         //margin-top:120px !important;
         margin: 0px !important;
         max-width: 100%;
-      }
+    }
 
-      #search-wrapper{
+    #search-wrapper {
         position: absolute;
         top: 460px;
         width: 100%;
-        left:25%;
-      }
+        left: 25%;
+    }
 
-      .search {
+    .search {
         margin-top: 80px;
-        border:1px solid #EEEEEE !important;
-        border-radius:10px;
-      }
+        border: 1px solid #EEEEEE !important;
+        border-radius: 10px;
+    }
 
-      #search-wrapper input{
-       padding:10px 30px;
-       font-size:20px;
-       background: #b9b9b938;
-       border-radius: 100px;
-       width:50%;
-      }
+    #search-wrapper input {
+        padding: 10px 30px;
+        font-size: 20px;
+        background: #b9b9b938;
+        border-radius: 100px;
+        width: 50%;
+    }
 
-      .search .matching-post {
+    .search .matching-post {
         display: inline-block;
         text-align: left;
         margin: 10px;
         background: #FFFFFF;
         border-radius: 15px;
         padding: 10px;
-      }
+    }
 
-      section.cover {
+    .nolink
+    {
+      text-decoration: none !important;
+    }
+
+    section.cover {
         align-items: flex-start;
         min-height: 100%;
         height: auto !important;
         //background: none !important;
-        background:#f3f0ff !important;
-      }
+        background: #f3f0ff !important;
+    }
 
-      @media only screen and (max-width: 1000px) {
+    @media only screen and (max-width: 1000px) {
         .masonry {
-          width:100%;
-          column-count: 2;
-          column-gap: 0px;
+            width: 100%;
+            column-count: 2;
+            column-gap: 0px;
         }
 
-        #search-wrapper{
-          width:90%;
+        #search-wrapper {
+            width: 90%;
         }
-      }
+    }
 
-       @media only screen and (max-width: 400px) {
+    @media only screen and (max-width: 400px) {
         .masonry {
-          width:100%;
-          column-count: 1;
-          column-gap: 0px;
+            width: 100%;
+            column-count: 1;
+            column-gap: 0px;
         }
 
-        #search-wrapper{
-          width:90%;
+        #search-wrapper {
+            width: 90%;
         }
-      }
-
+    }
     </style>
 </head>
 
@@ -178,33 +180,34 @@
     window.$docsify = {
         name: '',
         repo: '',
-        loadNavbar:true,
+        loadNavbar: true,
         subMaxLevel: 2,
+        //onlyCover: true,
         plugins: [],
-        loadSidebar:true,
+        loadSidebar: false,
         coverpage: 'cover.html',
-         search: {
-          paths: 'auto',
-          placeholder: 'Search for content, examples, guides, ...',
+        search: {
+            paths: 'auto',
+            placeholder: 'Search for content, examples, guides, ...',
         }
         //onlyCover:true
     }
-    
+
     var search;
     var searchOffset = window.innerHeight;
 
-    function initSearchPlugin(){
-      search = document.getElementsByClassName('search')[0]
-      document.getElementById('search-wrapper').append(search);
+    function initSearchPlugin() {
+        search = document.getElementsByClassName('search')[0]
+        document.getElementById('search-wrapper').append(search);
 
-      //search.style.top = document.getElementById('search-wrapper-hidden').offsetTop + 'px';
+        //search.style.top = document.getElementById('search-wrapper-hidden').offsetTop + 'px';
     }
 
-    function moveSearchPlugin(direction){
-      var nav = document.getElementsByClassName('sidebar')[0]
-      search = document.getElementsByClassName('search')[0]
-      
-      if(direction == 'down') nav.prepend(search)
+    function moveSearchPlugin(direction) {
+        var nav = document.getElementsByClassName('sidebar')[0]
+        search = document.getElementsByClassName('search')[0]
+
+        if (direction == 'down') nav.prepend(search)
         else if (direction == 'up') document.getElementById('search-wrapper').append(search)
     }
 
@@ -215,31 +218,59 @@
     }*/
 
     document.addEventListener('DOMContentLoaded', (event) => {
-      setTimeout(function(){
-          var nav = document.getElementsByTagName('nav')[0];
-          var search = document.getElementsByClassName('search')[0];
+        setTimeout(function() {
+            var nav = document.getElementsByTagName('nav')[0];
+            var search = document.getElementsByClassName('search')[0];
 
-          window.onscroll = function(){
-            if(window.pageYOffset > 5) 
-              nav.style.background = '#FFFFFF';
-            else if(window.pageYOffset < 5) nav.style.background = 'none'
+            window.onscroll = function() {
+                if (window.pageYOffset > 5)
+                    nav.style.background = '#FFFFFF';
+                else if (window.pageYOffset < 5) nav.style.background = 'none'
 
-            if(window.pageYOffset > searchOffset) {
-              moveSearchPlugin('down')
-            }
-            else if(window.pageYOffset < searchOffset) moveSearchPlugin('up')
-          };
+                if (window.pageYOffset > searchOffset) {
+                    moveSearchPlugin('down')
+                } else if (window.pageYOffset < searchOffset) moveSearchPlugin('up')
+            };
 
-          //initSearchPlugin()
+            //initSearchPlugin()
 
-      }, 100)
+        }, 100)
 
     });
-
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+
+      <script type="text/javascript">
+        function loadMedium(target){
+          window.setTimeout(function(){
+        fetch('https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/abstract-code-programming')
+        .then(response => response.json())
+        .then(data => {
+          data.items.forEach(item => {
+            var post = document.createElement('div');
+            post.style.fontSize = '19px';
+            post.innerHTML = '<p><h3>'+item.title+'</h3> <br> </p>';
+            //post.innerHTML += '<small>by ' + item.author + '</small></p>'
+            post.innerHTML += item.content.split('<hr>')[0];
+            document.getElementById(target).appendChild(post);
+          });
+
+        });
+
+      }, 700)
+      };
+
+      loadMedium('postsSection');
+
+        window.addEventListener('hashchange', () => {
+         
+          if(window.location.hash == '#/chapters/POSTS') loadMedium('postsSectionInner');
+          else loadMedium('postsSection');
+        });
+      </script>
+
 </body>
 
 </html>

@@ -1,10 +1,4 @@
-
-# Abtract Code
-
-![Banner](assets/aclogo-md.png "Banner")
-
-
-### TL;DR
+# What is this?
 
 > Abstract Code Programing doesn't have an official definition. It is discussed here as a development approach that aims to provide a way to develop software using programming languages that are designed with abstract principles and are accessible even for non programmers. Projects, like the abstract programming language PUZZLE are developed and discussed.
 
@@ -53,13 +47,6 @@ As part of this publication, some technologies that make abstract coding possibl
 
 
 When we talk about abstract code, we need an abstract programming language. The PUZZLE project is an approach to  reate a real programmming language, that is designed with abstraction in mind. Along with the resources shown in this publication, PUZZLE will be discussed.
-
-
-## PUZZLE ecosystem
-
-Besides having a language for development, frameworks are a must-use for building software. PUZZLE is not just a language, it's a language platform that allows using ready-to-use components, contributed by a community. This publication also develops some of these modules.
-
-![OBJY](assets/objy.png "OBJY")
 
 ---
 

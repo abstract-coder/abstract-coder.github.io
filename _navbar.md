@@ -2,10 +2,12 @@
 
 * [![AC](https://abstractcode.org/assets/aclogo-sm.png "Abstract Code")]()
 
-* [#StartReading](README.md)
+* [Intro](README.md)
 
-* [#LearnPUZZLE](chapters/language/concepts?id=language-concepts)
+* [Basics](chapters/BASICS.md)
 
-* [#build-something](chapters/build/index.md)
+* [Language](chapters/LANGUAGE-GUIDE.md)
 
-* [#about](chapters/about.md)
+* [Posts](chapters/POSTS.md)
+
+* [About](chapters/about.md)
