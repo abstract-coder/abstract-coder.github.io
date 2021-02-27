@@ -6,7 +6,7 @@ Alongside the ressources, a couple of projects (abstract programming language / 
 
 # Author
 
-![Marco](../../assets/marco.jpg)
+
 
 Hi, my name is Marco Boelling. I'm a Computer Science Master with a deep passion for making things simple and accessible. I recieved my Bachelor's and Master's Degree from Furtwangen University in Germany.
 

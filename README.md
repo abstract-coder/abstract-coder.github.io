@@ -1,4 +1,4 @@
-# What is this?
+# What is abstract code?
 
 > Abstract Code Programing doesn't have an official definition. It is discussed here as a development approach that aims to provide a way to develop software using programming languages that are designed with abstract principles and are accessible even for non programmers. Projects, like the abstract programming language PUZZLE are developed and discussed.
 
