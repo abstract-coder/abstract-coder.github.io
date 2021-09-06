@@ -50,9 +50,9 @@
     }
 
     .masonry {
-        width: 60%;
-        column-count: 3;
-        column-gap: 10px;
+        width: 100%;
+        column-count: 2;
+        column-gap: 20px;
     }
 
     .masonry div,
@@ -61,14 +61,14 @@
         border-radius: 20px;
         padding: 30px;
         //padding-top:130px;
-        margin: 20px;
+        margin: 0px;
         //margin-top:1px;
         // margin-bottom:20px;
         //min-height: 200px;
         font-size: 22px;
         font-weight: 100;
         break-inside: avoid-column;
-        display: flex;
+        display: block;
         align-items: center;
         justify-content: center;
     }
@@ -170,6 +170,28 @@
             width: 90%;
         }
     }
+
+    .sidebar-nav > ul > li > a  {
+        font-weight: bold !important;
+    }
+
+    .sidebar-nav  a  {
+
+    }
+
+    .content {
+        margin-right: 250px;
+    }
+
+    @media screen and (max-width: 800px) {
+        .content {
+            margin-right: 15px;
+        }
+    }
+
+    .sidebar, .content {
+        
+    }
     </style>
 </head>
 
@@ -184,7 +206,7 @@
         subMaxLevel: 2,
         //onlyCover: true,
         plugins: [],
-        loadSidebar: false,
+        //loadSidebar: true,
         //coverpage: 'cover.html',
         search: {
             paths: 'auto',

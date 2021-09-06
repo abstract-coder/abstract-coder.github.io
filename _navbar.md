@@ -2,11 +2,7 @@
 
 * [![AC](https://abstractcode.org/assets/aclogo-sm.png "Abstract Code")]()
 
-* [Intro](README.md)
-
-* [Basics](chapters/BASICS.md)
-
-* [Language](chapters/LANGUAGE-GUIDE.md)
+* [**Content**](README.md)
 
 * [Posts](chapters/POSTS.md)
 
