@@ -3,6 +3,7 @@
 <div class="masonry">
 	<div style="background: #dc90cbb8;">
 	    <p><span style="font-size:25px"><b>Abstract Code</b> is a programming approach, where abstract language is used to build software as an alternative to low code and no code.</span>
+	    <a href="#?id=about">Learn more</a>
 	</p>
 	</div>
 	<!--div style="background: #b583cca4;">
@@ -16,6 +17,23 @@
 	</p>
 	</div-->
 </div>
+
+<!--br>
+
+<div class="masonry">
+	<div style="border: 1px solid #dc90cbb8; background: none;">
+	    <a href="/#/?id=coding-basics"><span style="font-size:23px"><b>Coding Basics</b><br> <span style="color:#777777">read about the basics of coding</span></span>
+		</a>
+	</div>
+	<div style="border: 1px solid #dc90cbb8; background: none;">
+	    <a href="/#/?id=abstraction"><span style="font-size:23px"><b>Abstraction</b><br> <span style="color:#777777">... in computers</span></span>
+		</a>
+	</div>
+	<div style="border: 1px solid #dc90cbb8; background: none;">
+	    <a href="/#/?id=abstract-language"><span style="font-size:23px"><b>Language Approachs</b><br> <span style="color:#777777">check out an abstract programing language</span></span>
+		</a>
+	</div>
+</div-->
 
 # About
 
