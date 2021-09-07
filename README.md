@@ -371,7 +371,7 @@ Different syntax is easy to understand for humans, but not so easy for a compute
 > An abstract programming language should be capable of understanding a phrase with certain words missing and/or a different word order. The most important words, however must be present (like 'if' or 'print')
 
 
-## What is PUZZLE?
+## PUZZLE Language
 
 The PUZZLE project is a programming language, that ***abstracts functionality using simple words and phrases***
 
@@ -390,7 +390,7 @@ PUZZLE's key features are:
 * Runs on many platforms
 * Can be used to build many things
 
-### Simple syntax
+**Simple syntax**
 
 The syntax of PUZZLE is heavily based on natural language. 
 A quick example:
@@ -398,19 +398,19 @@ A quick example:
 print Hello
 ```
 
-### Dynamic semantics
+**Dynamic semantics**
 
 Even different semantics in the shape of different word orders for the same meaning are possible.
 
-### Textual abstraction
+**Textual abstraction**
 
 Pretty much any complex functionality can be abstracted in text: a word or phrase.
 
-### Easily customizable
+**Easily customizable**
 
 At the base of the language lies a dynamic configuration which allows one to define custom syntax and semanticy in order to execute some functionality.
 
-### Extendable
+**Extendable**
 
 Custom syntax can be published as modules. Any other PUZZLE user can use these modules. 
 
@@ -422,13 +422,13 @@ use https://domain.com/email.js;
 use email.js;
 ```
 
-### Platform independent
+**Platform independent**
 
 The PUZZLE language itself is written in JavaScript, meaning that any PUZZLE code runs, where JavaScript runs.
 
 > JavaScript (and PUZZLE) runs on pretty much any device. From Microprocessors, Smartphones, Desktops to Servers and Clouds.
 
-### Versatile
+**Versatile**
 
 Since PUZZLE is a programming language, the capabilities are versatile. It is not restricted to anything specific. You can create Graphical Interfaces, Server Code, Websites, Desktop Apps, Workflows or embedded Applications.
 
