@@ -6,4 +6,6 @@
 
 * [Posts](chapters/POSTS.md)
 
+* [Medium](https://medium.com/abstract-code-programming)
+
 * [About](chapters/about.md)
