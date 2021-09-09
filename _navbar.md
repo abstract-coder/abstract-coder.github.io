@@ -2,7 +2,7 @@
 
 * [![AC](https://abstractcode.org/assets/aclogo-sm.png "Abstract Code")]()
 
-* [Home](README.md)
+* [Home](README.md?id=abstract-code)
 
 * [About](README?id=about)
 

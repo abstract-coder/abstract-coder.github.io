@@ -205,7 +205,9 @@ In order to run a code, the computer needs to "know" the language. So the "langu
 
 TBC...
 
-# Abstraction
+# Existing Approaches
+
+## Abstraction
 
 > The goal of "abstracting" [...] is to reduce complexity by removing unnecessary information [<cite>[1]</cite>]
 
@@ -281,6 +283,7 @@ What is a language at all? A Language is a communication format, most notably us
 
 Computers work on the same principle. (Programming-) Language is used to transfer information from a user (developer) to the computer. The computer then processes that information.
 
+
 ## Language philosophy
 
 Every programming language, just like every real (spoken) language is based upon two principles:
@@ -297,6 +300,23 @@ Every programming language comes with a predefined set of words and defines, how
 > For instance, the phrase ***"how are you?"*** in english means that <u>one participator</u> in the communication is interested in how the <u>other patricipator</u> is doing. Thats the meaning of the combination of these words. 
 
 > In a programming language the phrase ***"print('hello')"*** means that <u>one participator</u> of the communication (the developer) is handing over the information to display the text "hello" to the <u>other participator</u> (the computer).
+
+
+## The challenges
+
+When trying to create a simple programming language as an alternative to low code platforms, some challenges occur:
+
+***Learning***
+
+Learning a language is harder than learning how to use an existing software.
+
+***Intuitivity***
+
+Development platforms themselves are software applications. Software applications are intuitive. Languages are not...
+
+***Handling***
+
+
 
 
 ## Abstract language structure
@@ -419,17 +439,17 @@ The PUZZLE language itself is written in JavaScript, meaning that any PUZZLE cod
 
 Since PUZZLE is a programming language, the capabilities are versatile. It is not restricted to anything specific. You can create Graphical Interfaces, Server Code, Websites, Desktop Apps, Workflows or embedded Applications.
 
-## Language concepts
+## Language "building blocks"
 
 Programming means passing a set of instructions to a computer. These instructions are written with programming code. Every programming code follows a certain structure that makes it easier for a computer to understand and easier for a developer to write and read. Pretty much every programming language is structured like this:
 
 ![Code Structure](../../assets/code-structure.png)
 
-## Code files
+### Code files
 
 Code is typically saved into files. Each file contains the programming code. If the software requires a lot of code, it is split up into multiple files for readability, maintainability and structure. Code files can be referenced amongst each other.
 
-## Statements
+### Statements
 
 Inside a file, code is split up into different statements. A statement is a single (or multiple) instruction that a computer processes individually. Statements are seperated fromeach other using a delimeter. Many languages use a semicolon for this and so does PUZZLE.
 
@@ -443,7 +463,7 @@ print "hello World" ;
 
 ```
 
-## Blocks
+### Blocks
 
 Blocks are also a way to isolate instructions. A Block allows to span statements over multiple lines and can contain multiple statements. In PUZZLE, each block is processed individually...
 
@@ -482,23 +502,23 @@ print '
 
 ```
 
-## Runtime
+### Runtime
 
 Code needs to be executed somewhere and somehow.
 
-## functions
+### functions
 
 - built in
 
-## data
+### data
 
-## conditions
+### conditions
 
-## loops
+### loops
 
-## algorythms
+### algorythms
 
-## Comments
+### Comments
 
 Comments are a very important part of programming code. Comments are parts of a code, that are not processed and interpreted! They are used to define additional information about the code itself. In most languages, comments are initiated with `//`
 
