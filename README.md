@@ -68,7 +68,7 @@ As part of this publication, some technologies that make abstract coding possibl
 When we talk about abstract code, we need an abstract programming language. The PUZZLE project is an approach to  reate a real programmming language, that is designed with abstraction in mind. Along with the resources shown in this publication, PUZZLE will be discussed.
 
 
-# Coding Basics
+# Basic Know-How
 
 > The basics are a good point to start not only for non-programmers but also for professionals. This chapter features the main parts involved in programming:
 ***From "What is code?" over "What is a Computer?" to "How to run code?"***
@@ -100,7 +100,7 @@ Sounds simple, but still there are open questions...
 * ***Where to start???***
 
 
-## The computer
+## "The computer"
 
 The first thing one needs in order to run code is a computer. Simple, right? No.
 
