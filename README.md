@@ -16,24 +16,19 @@
 		</ul></span>
 	</p>
 	</div-->
+	<!--div style="border: 1px solid #dc90cbb8; background: none;">
+	    <a href="#?id=coding-basics"><span style="font-size:23px"><b>Coding Basics</b><br> <span style="color:#777777">understand basics of coding</span></span>
+		</a>
+	</div>
+	<div style="border: 1px solid #dc90cbb8; background: none;">
+	    <a href="#?id=abstraction"><span style="font-size:23px"><b>Read about abstraction</b><br> <span style="color:#777777">... in computers</span></span>
+		</a>
+	</div>
+	<div style="border: 1px solid #dc90cbb8; background: none;">
+	    <a href="#?id=abstract-language"><span style="font-size:23px"><b>Language Approachs</b><br> <span style="color:#777777">check out an abstract programing language</span></span>
+		</a>
+	</div-->
 </div>
-
-<!--br>
-
-<div class="masonry">
-	<div style="border: 1px solid #dc90cbb8; background: none;">
-	    <a href="/#/?id=coding-basics"><span style="font-size:23px"><b>Coding Basics</b><br> <span style="color:#777777">read about the basics of coding</span></span>
-		</a>
-	</div>
-	<div style="border: 1px solid #dc90cbb8; background: none;">
-	    <a href="/#/?id=abstraction"><span style="font-size:23px"><b>Abstraction</b><br> <span style="color:#777777">... in computers</span></span>
-		</a>
-	</div>
-	<div style="border: 1px solid #dc90cbb8; background: none;">
-	    <a href="/#/?id=abstract-language"><span style="font-size:23px"><b>Language Approachs</b><br> <span style="color:#777777">check out an abstract programing language</span></span>
-		</a>
-	</div>
-</div-->
 
 # About
 
@@ -49,8 +44,6 @@ Abstract Code Programing doesn't have an official definition. It is discussed he
 
 ## Why abstract code?
 
-> Abstract code makes things simple, understandable and accessible, while still providing a wide range of capabilities. Code can do more compared to drag-n-drop tools. 
-
 
 Usually, learning and understanding a programming language isn't so easy (except for pros). So in the last decades, different approaches have been born in order to make "creating software" available for non-professionals and easier for professionals. Common examples are Low Code Platforms, drag-n-drop programming tools or WYSIWYG software. These approaches all work with abstraction.
 
@@ -62,17 +55,12 @@ Abstraction has been around since computers were created. Abstraction works on t
 ![Development Layers](assets/development-layers.png)
 
 
-## The problem
-
-TBD ...
-
-
 
 ## The Approach
 
-![Puzzle](assets/puzzle.png "Puzzle")
+***"An abstract programming language"***
 
-***"PUZZLE"***
+![Puzzle](assets/puzzle.png "Puzzle")
 
 As part of this publication, some technologies that make abstract coding possible, are being created and discussed. There technologies are open source.
 
@@ -285,7 +273,6 @@ Let's talk about the three main conpepts of abstract code programing. These conc
 * Abstract (as in abstraction)
 * Code (computer code)
 * Programming (the process of coding)
-
 
 
 # Abstract Language
