@@ -2,18 +2,14 @@
 
 * [![AC](https://abstractcode.org/assets/aclogo-sm.png "Abstract Code")]()
 
-* [Home](README.md?id=abstract-code)
+* [Guide](README.md?id=abstract-code)
 
-* [About](README?id=about)
+* [Tools](chapters/LANGUAGE.md)
 
-* [Basic Know-How](README?id=coding-basics)
-
-* [Abstract Language](README?id=abstract-language)
-
-* [|](README?id=abstract-language)
+* [Know-How](chapters/BASICS.md)
 
 * [Posts](chapters/POSTS.md)
 
 * [Medium](https://medium.com/abstract-code-programming)
 
-* [Info](chapters/about.md)
+* [About](chapters/about.md)
