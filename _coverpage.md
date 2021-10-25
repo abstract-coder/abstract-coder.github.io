@@ -20,5 +20,5 @@ create button with action (
 </center>
 
 
-[Learn](?id=language)
-[Get Started](?id=puzzle)
+[Technologies](?id=Technologies)
+[Guides](?id=GUIDES)

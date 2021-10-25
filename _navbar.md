@@ -6,6 +6,8 @@
 
 * [Tools](chapters/LANGUAGE.md)
 
+* [PUZZLE lang](chapters/PUZZLE.md)
+
 * [Know-How](chapters/BASICS.md)
 
 * [Posts](chapters/POSTS.md)
