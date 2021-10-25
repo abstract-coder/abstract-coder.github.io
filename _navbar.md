@@ -2,16 +2,18 @@
 
 * [![AC](https://abstractcode.org/assets/aclogo-sm.png "Abstract Code")]()
 
-* [Guide](README.md?id=abstract-code)
+* [Abstract Code]()
 
-* [Tools](chapters/LANGUAGE.md)
+* [Tools](chapters/TOOLS.md)
 
 * [PUZZLE lang](chapters/PUZZLE.md)
 
-* [Know-How](chapters/BASICS.md)
+* [Guide](chapters/GUIDES.md)
 
 * [Posts](chapters/POSTS.md)
 
 * [Medium](https://medium.com/abstract-code-programming)
+
+* [Basics](chapters/BASICS.md)
 
 * [About](chapters/about.md)

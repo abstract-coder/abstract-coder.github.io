@@ -53,36 +53,3 @@ Abstraction has been around since computers were created. Abstraction works on t
 
 
 ![Development Layers](assets/development-layers.png)
-
-
-# Developer Ressources
-
-## Technologies
-
-## Platforms
-
-## Architectures
-
-# <span style="color:#aaaaaa">GUIDES</span>
-
-The following chapters will show you how to build software using abstract language and tools for various platforms
-
-# Frontend
-
-## Webbrowser
-
-## Desktop
-
-## Mobile
-
-## CLI
-
-# Backend
-
-## Server
-
-## Cloud
-
-## Microservices
-
-
