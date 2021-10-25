@@ -1,4 +1,4 @@
-# About
+# Info
 
 Abstract code is a free, open-source publication, that features ressources, projects and content about programming with abstract code. Readers will learn about programming and how to use a real programming language (PUZZLE) for developing software using abstract syntax.
 
