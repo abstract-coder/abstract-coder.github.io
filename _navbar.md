@@ -2,11 +2,11 @@
 
 * [![AC](https://abstractcode.org/assets/aclogo-sm.png "Abstract Code")]()
 
-* [Abstract Code]()
+* [Home]()
+
+* [Learn PUZZLE](chapters/PUZZLE.md)
 
 * [Tools](chapters/TOOLS.md)
-
-* [Learn PUZZLE](chapters/LANGUAGE.md)
 
 * [Guide](chapters/GUIDES.md)
 

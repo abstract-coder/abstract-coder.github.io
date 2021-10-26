@@ -20,5 +20,17 @@ create button with action (
 </center>
 
 
-[Technologies](?id=Technologies)
-[Guides](?id=GUIDES)
+<div style="text-align: center;color:#333333;">
+		RUNS ON: <br><br>
+		&nbsp; <span style=""><i class="fab fa-node-js"></i> Node,
+		&nbsp; <i class="fab fa-js-square"></i> JS,
+		&nbsp; <i class="fa fa-cloud"></i> Cloud,
+		&nbsp; <i class="fa fa-globe"></i> Web,
+		&nbsp; <i class="fa fa-desktop"></i> Desktop,
+		&nbsp; <i class="fa fa-mobile-alt"></i> PWA,
+		&nbsp; ...
+	</span>
+	</div>
+
+[Lean PUZZLE](chapters/PUZZLE)
+[Guides](chapters/GUIDES)
