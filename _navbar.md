@@ -6,7 +6,7 @@
 
 * [Tools](chapters/TOOLS.md)
 
-* [PUZZLE lang](puzzlelang.github.io/index.md)
+* [PUZZLE lang](chapters/LANGUAGE.md)
 
 * [Guide](chapters/GUIDES.md)
 
