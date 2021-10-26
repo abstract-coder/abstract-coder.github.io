@@ -6,7 +6,7 @@
 
 * [Tools](chapters/TOOLS.md)
 
-* [PUZZLE lang](chapters/LANGUAGE.md)
+* [Learn PUZZLE](chapters/LANGUAGE.md)
 
 * [Guide](chapters/GUIDES.md)
 

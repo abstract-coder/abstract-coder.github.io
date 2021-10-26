@@ -123,27 +123,42 @@ print '
 
 ```
 
-## Runtime
+## Working with Data/Information
 
-Code needs to be executed somewhere and somehow.
+Every program works with information, that need to be remembered somewhere.
 
-## functions
+```puzzle
+set name "Peter"
+```
+
+## Define Functions
 
 - built in
 
-## data
+## Conditions
 
-## conditions
+## Loops
 
-## loops
-
-## algorythms
-
-## Comments
-
-Comments are a very important part of programming code. Comments are parts of a code, that are not processed and interpreted! They are used to define additional information about the code itself. In most languages, comments are initiated with `//`
+## A full example
 
 ```puzzle
-// This is a comment, that will not be processed
-print "This is a statement that will be processed."
+set name "Peter";
+set doItOrNot true;
+
+define runner print-name (
+	print name;
+)
+
+if doItOrNot IS true then (
+	run name:name in print-name
+)
+
 ```
+
+# Runtime
+
+Code needs to be executed somewhere and somehow.
+
+# Deployment
+
+...
