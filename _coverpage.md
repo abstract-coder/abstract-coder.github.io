@@ -19,4 +19,4 @@ create button with action (
 </div>
 </center>
 
-[Go to puzzlelang.org](https://puzzlelang.org)
+[What is abstract code?](chapters/BASICS)

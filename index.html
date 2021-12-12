@@ -207,6 +207,13 @@
         
     }
 
+    section.cover.show {
+        position: fixed !important;
+        z-index: 9 !important;
+        max-height: 100%;
+        overflow: scroll;
+    }
+
     </style>
 </head>
 
@@ -223,7 +230,7 @@
         loadNavbar: true,
         coverpage:true,
         subMaxLevel: 2,
-        onlyCover: true,
+        //onlyCover: true,
         plugins: [],
         //loadSidebar: true,
         //coverpage: 'cover.html',
